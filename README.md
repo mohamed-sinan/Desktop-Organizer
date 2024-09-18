@@ -1,5 +1,4 @@
 # Desktop-Organizer
-Sure! Here’s a sample `README.md` for your file organizer script. Feel free to adjust it according to your preferences and project specifics.
 
 ```markdown
 # File Organizer Script
